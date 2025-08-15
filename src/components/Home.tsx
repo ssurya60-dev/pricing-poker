@@ -96,7 +96,7 @@ export function Home({ onCreateSession, onJoinSession }: HomeProps) {
               The modern pointing poker tool for agile teams. Simple, fast, and effective story estimation.
             </p>
             <div className="text-sm text-gray-500">
-              © 2025 PokerPoint. Built with ❤️ for agile teams worldwide.
+              © 2025 Pointing Poker. Built with ❤️ for agile teams.
             </div>
           </div>
         </div>
