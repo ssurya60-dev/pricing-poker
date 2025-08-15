@@ -18,7 +18,7 @@ export function Home({ onCreateSession, onJoinSession }: HomeProps) {
               <div className="w-10 h-10 bg-gradient-to-r from-blue-600 to-purple-600 rounded-xl flex items-center justify-center">
                 <Zap className="w-6 h-6 text-white" />
               </div>
-              <span className="text-xl font-bold text-gray-900 dark:text-white">Poiting Poker - Pricing Team</span>
+              <span className="text-xl font-bold text-gray-900 dark:text-white">Pointing Poker - Pricing Team</span>
             </div>
             
             <div className="flex items-center">
