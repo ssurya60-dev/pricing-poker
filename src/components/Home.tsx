@@ -90,7 +90,7 @@ export function Home({ onCreateSession, onJoinSession }: HomeProps) {
               <div className="w-10 h-10 bg-gradient-to-r from-blue-600 to-purple-600 rounded-xl flex items-center justify-center">
                 <Zap className="w-6 h-6 text-white" />
               </div>
-              <span className="text-xl font-bold">PokerPoint</span>
+              <span className="text-xl font-bold">Pointing Poker</span>
             </div>
             <p className="text-gray-400 mb-6 max-w-md mx-auto">
               The modern pointing poker tool for agile teams. Simple, fast, and effective story estimation.
